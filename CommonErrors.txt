@@ -1,0 +1,4 @@
+Here is a list of common errors and their solutions:
+
+ERROR: "Message Queuing has not been installed on this computer."
+SOLUTION: Install Message Queuing by following the instructions on the following link - http://www.dotnetfunda.com/forums/show/1369/message-queuing-has-not-been-installed-on-this-computer
